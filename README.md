@@ -7,18 +7,6 @@
 
 ---
 
-### 💼 About Me
-- 💻 I come from a **PHP development background**, and now expanding into **Python**, **FastAPI**, and modern web tools.
-- 🛠️ I enjoy building automation tools, backend APIs, and real-world utility projects.
-- 🔍 Currently focused on:
-  - API development (REST API, FastAPI, Postman)
-  - Data cleaning & processing with Python + Pandas
-  - Frontend layout using Tailwind CSS
-  - CRM/API integration (e.g. Salesforce)
-- 🧪 Also exploring: **Shopify Liquid**, **React**, and **Dockerized workflows**
-
----
-
 ### 📦 Projects I'm Building
 - [📊 RV Database Cleanup System](https://github.com/nyakqi00/database-cleanup-system)  
   A backend-driven tool using FastAPI, Docker, and Pandas to clean & preview large CSV email datasets (~70k rows) across brands.
@@ -37,8 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
-
-> 💬 Tools I use often: **Postman**, **Salesforce**, **Shopify Liquid**, **Docker Compose**
 
 ---
 
