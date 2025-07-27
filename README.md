@@ -36,6 +36,7 @@
 ### 📫 Let's Connect
 - Email: [tnyakqi@gmail.com](mailto:tnyakqi@gmail.com)
 - GitHub: [github.com/nyakqi00](https://github.com/nyakqi00)
+- LinkedIn: (https://www.linkedin.com/in/nyak-qi-tan-77bb56257/)
 
 ---
 
