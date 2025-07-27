@@ -34,8 +34,8 @@
 ---
 
 ### 📫 Let's Connect
-- Email: [your.email@example.com](mailto:tnyakqi@gmail.com)
-- GitHub: [github.com/yourusername](https://github.com/nyakqi00)
+- Email: [tnyakqi@gmail.com](mailto:tnyakqi@gmail.com)
+- GitHub: [github.com/nyakqi00](https://github.com/nyakqi00)
 
 ---
 
