@@ -2,7 +2,6 @@
 <p align="center">
   🧠 Self-learning developer | Exploring Python, FastAPI, Docker, and Web Technologies<br/>
   💡 Passionate about solving real problems with code and learning by building<br/>
-  🧰 Currently working on: <strong>RV Database Cleanup System</strong>
 </p>
 
 ---
