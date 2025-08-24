@@ -10,6 +10,9 @@
 - [📊 RV Database Cleanup System](https://github.com/nyakqi00/database-cleanup-system)  
   A backend-driven tool using FastAPI, Docker, and Pandas to clean & preview large CSV email datasets (~70k rows) across brands.
 
+- Boat Schedule App (https://github.com/nyakqi00/boat-schedule-app)
+  A tool to manage fishing fleets across multiple companies: register boats, manage crew, schedule trips, and get reminders for estimated return and document expiries.
+
 ---
 
 ### 🧰 Tools & Technologies
